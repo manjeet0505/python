@@ -1,0 +1,14 @@
+WHat is LLM ?
+     An LLM (Large Language Model) is a type of artificial intelligence model that is trained on massive amounts of text data to understand, generate, and reason with human language.
+     
+     Examples of LLMs:
+
+     GPT-4 / GPT-5 (by OpenAI)
+     
+     Gemini (by Google DeepMind)
+     
+     Claude (by Anthropic)
+     
+     LLaMA (by Meta)
+     
+     Mistral (open-source)
