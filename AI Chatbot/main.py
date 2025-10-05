@@ -1,6 +1,7 @@
 from openai import OpenAI
+import os
 
-key = "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"
+key = os.getenv("OPENAI_API_KEY")
 
 messages = []
 
